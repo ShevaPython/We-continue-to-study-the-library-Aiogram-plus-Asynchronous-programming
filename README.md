@@ -39,3 +39,13 @@ Inline Bot
 - InlineQuery in API telegram -это класс,результатом которого являеться его экземпляр-конкретный запрос сформированый
   при отправки пользователем текста,через обращения к инлайн Боту!
 - Echo InlineBot
+
+~Lessons 5
+
+- Program mode 1
+- Finite-state-machine
+- Keep data
+
+~Lessons 6 
+
+-SQLite
